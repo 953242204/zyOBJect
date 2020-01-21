@@ -9,7 +9,7 @@
 
 
 	<properties>
-		<springVersion>5.1.6.RELEASE</springVersion>
+		<springVersion>5.2.3.RELEASE</springVersion>
 		<springSecurityVersion>5.1.5.RELEASE</springSecurityVersion>
 		<junit.platform.version>1.2.0</junit.platform.version>
 		<junit.jupiter.version>5.2.0</junit.jupiter.version>
